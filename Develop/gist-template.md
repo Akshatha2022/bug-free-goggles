@@ -118,3 +118,8 @@ Boundaries are metacharacters that match the start and end position of a string,
 1. `\d` matches any decimal digit and is shorthand for [0-9].
 1. `\D` matches any non-digit and is the same as [^0-9.]
 
+
+## Author
+Akshatha Krishnamurthy
+[GitHub](https://github.com/Akshatha2022)
+[Portfolio](https://akshatha2022.github.io/02ChallengeCSS/)
