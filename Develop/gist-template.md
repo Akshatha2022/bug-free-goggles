@@ -45,3 +45,13 @@ function isPatternMatch(input) {
   return /^\d{3}-\d{3}-\d{4}$/.test(input);
 }
 ```
+
+## Table of Contents
+
+- [Anchors](#anchors)
+- [Character Classes](#character-classes)
+- [Flags](#flags)
+- [Grouping Constructs](#grouping-constructs)
+- [Bracket Expressions](#bracket-expressions)
+- [Greedy Match](#greedy-match)
+- [Boundaries](#boundaries)
